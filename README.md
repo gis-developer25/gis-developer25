@@ -23,7 +23,7 @@ Atualmente, sou Residente Tecnológica na **Aponti Academy / Softex PE** e bolsi
 
 ## 📬 Vamos nos conectar?
 * **LinkedIn:** [linkedin.com/in/giselle-gomes-05034a354](https://www.linkedin.com/in/giselle-gomes-05034a354/)
-* **E-mail:** *(Se quiser, pode colocar seu e-mail de contato aqui)*
+* **E-mail:** gigomes.profissional@gmail.com
 
 ---
 *“Cada linha de código digitada é um passo a mais em direção ao objetivo.”* 🚀
