@@ -21,14 +21,6 @@ Atualmente, sou Residente Tecnológica na **Aponti Academy / Softex PE** e bolsi
 
 ---
 
-## 📈 Estatísticas do GitHub
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gis-developer25&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gis-developer25&layout=compact&langs_count=7&theme=dracula" />
-</p>
-
----
-
 ## 📬 Vamos nos conectar?
 * **LinkedIn:** [linkedin.com/in/giselle-gomes-05034a354](https://www.linkedin.com/in/giselle-gomes-05034a354/)
 * **E-mail:** *(Se quiser, pode colocar seu e-mail de contato aqui)*
