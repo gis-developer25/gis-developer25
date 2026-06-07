@@ -1,4 +1,4 @@
-# Olá, eu sou a Giselle Gomes! 👋
+# Olá, eu sou a Giselle! 👋
 
 ## 👩‍💻 Sobre Mim
 Sou formada em **Biologia pela UFRJ** e atualmente estou em transição de carreira para a área de **Tecnologia**, com foco em **Desenvolvimento Front-End** e **Suporte Técnico**. 
