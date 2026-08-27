@@ -3,7 +3,7 @@
 ## 👩‍💻 Sobre Mim
 Sou formada em **Biologia pela UFRJ** e atualmente estou em transição de carreira para a área de **Tecnologia**, com foco em **Desenvolvimento Front-End** e **Suporte Técnico**. 
 
-Atualmente, sou Residente Tecnológica na **Aponti Academy / Softex PE** e bolsista do programa **Bolsa Futuro Digital (MCTI)**. Utilizo minha forte capacidade analítica, atenção aos detalhes e resiliência vindas da ciência para diagnosticar cenários complexos e construir interfaces web modernas, responsivas e eficientes.
+Entre abril e junho de 2026, fui Residente Tecnológica na **Aponti Academy / Softex PE** e bolsista do programa **Bolsa Futuro Digital (MCTI)**. Utilizo minha forte capacidade analítica, atenção aos detalhes e resiliência vindas da ciência para diagnosticar cenários complexos e construir interfaces web modernas, responsivas e eficientes.
 
 ---
 
